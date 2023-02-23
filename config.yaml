@@ -308,7 +308,7 @@ params:
     icon: "Cc-by-nc-nd.svg" # in assets folder
     url: "https://creativecommons.org/licenses/by-nc-nd/4.0"
 
-  # 示右上角 i18n 切换按钮
+  # 显示右上角 i18n 切换按钮
   # Display i18n toggle button
   i18nlist: true
 
