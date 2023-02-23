@@ -88,7 +88,7 @@ $manuMain:
     identifier: home
     params:
       icon: eva eva-home
-    url: /posts/
+    url: /
   - &mainMenuAbout
     name: About
     weight: 20
@@ -96,13 +96,6 @@ $manuMain:
     params:
       icon: eva eva-heart
     url: /about/
-  - &mainMenuLinks
-    name: Links
-    weight: 30
-    identifier: links
-    params:
-      icon: eva eva-people
-    url: /links/
   - &mainMenuArchives
     name: Archives
     weight: 40
@@ -124,20 +117,6 @@ $manuMain:
     params:
       icon: eva eva-folder
     url: /categories/
-  - &mainMenuTwitter
-    name: Twitter
-    weight: 70
-    identifier: twitter
-    params:
-      icon: eva eva-twitter
-    url: /twitter/
-  - &mainMenuGitHub
-    name: GitHub
-    weight: 80
-    identifier: github
-    params:
-      icon: eva eva-github
-    url: /github/
   - &mainMenuSearch
     name: Search
     weight: 999
@@ -152,10 +131,7 @@ menu:
   main:
     - *mainMenuHome
     - *mainMenuAbout
-    - *mainMenuLinks
     - *mainMenuArchives
-    - *mainMenuTwitter
-    - *mainMenuGitHub
     - *mainMenuSearch
   # 副导航 / sub-navigation
   # sub:
@@ -312,22 +288,6 @@ params:
   # Display i18n toggle button
   i18nlist: true
 
-  # GitHub 页面设置
-  # github page
-  github:
-    id: "torvalds" # or ["torvalds", "gvanrossum"]
-    minStars: 5 # 最小 star 项目 / min stars
-
-  # Twitter 页面设置
-  # tweet page
-  twitter:
-    enabled: true
-    rsshub: "https://rsshub.rssforever.com" # rsshub url, see https://github.com/DIYgod/RSSHub
-    id: "GenshinImpact" # Twitter ID
-    # 如果为 true，Hugo 将下载图片和视频并进行优化，如果你在中国大陆地区，请谨慎启用这个选项
-    # If enabled, Hugo will download videos and images from the Tweet and optimize them
-    imageProcessing: true
-
   # 开启图片放大功能
   # Image Zoom Plugin
   # see https://github.com/francoischalifour/medium-zoom
@@ -423,13 +383,6 @@ params:
       - 1440
     webp: true
 
-  # 设置推特卡片样式
-  opengraph:
-    twitter: # see https://developer.twitter.com/en/docs/twitter-for-websites/cards/guides/getting-started
-      cardType: summary_large_image # summary | summary_large_image
-      site: "@Ice_Hazymoon"
-    image: "featured.png" # in assets folder | false
-
   author: Ice-Hazymoon
   keywords:
     - Hugo
@@ -447,11 +400,6 @@ languages:
     params:
       languageIcon: "images/i18n/zh-cn.svg" # in assets folder
       font: "Times New Roman,Times,Heti Song,serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol"
-      twitter: 
-        enabled: true
-        rsshub: "https://rsshub.rssforever.com"
-        id: "Ice_Hazymoon"
-        imageProcessing: true
       github:
         id: "Ice-Hazymoon"
         minStars: 10
