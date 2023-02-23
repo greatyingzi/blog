@@ -88,7 +88,7 @@ $manuMain:
     identifier: home
     params:
       icon: eva eva-home
-    url: /
+    url: /posts/
   - &mainMenuAbout
     name: About
     weight: 20
