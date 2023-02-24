@@ -182,7 +182,7 @@ params:
     enabled: true
     provider: "giscus" # custom | giscus
     giscus: &giscus
-      repo: "Ice-Hazymoon/hugo-theme-luna"
+      repo: "greatyingzi/blog"
       repoID: "R_kgDOHQOwYw"
       category: "Comments"
       categoryID: "DIC_kwDOHQOwY84CP0Sy"
