@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog-1ab.pages.dev/en-us/2023/02/23/my-3-post.html/</loc>
+    <lastmod>2023-02-24T10:36:49+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog-1ab.pages.dev/en-us/posts/</loc>
+    <lastmod>2023-02-24T10:36:49+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://blog-1ab.pages.dev/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://blog-1ab.pages.dev/ja/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://blog-1ab.pages.dev/en-us/posts/"
+                />
+  </url><url>
+    <loc>https://blog-1ab.pages.dev/en-us/</loc>
+    <lastmod>2023-02-24T10:36:49+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://blog-1ab.pages.dev/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://blog-1ab.pages.dev/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://blog-1ab.pages.dev/en-us/"
+                />
+  </url><url>
+    <loc>https://blog-1ab.pages.dev/en-us/2023/02/23/my-2-post.html/</loc>
+    <lastmod>2023-02-24T10:36:49+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://blog-1ab.pages.dev/2023/02/23/my-2-post.html/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://blog-1ab.pages.dev/en-us/2023/02/23/my-2-post.html/"
+                />
+  </url><url>
     <loc>https://blog-1ab.pages.dev/en-us/categories/</loc>
     <lastmod>2023-02-24T10:36:49+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -52,26 +112,6 @@
                 href="https://blog-1ab.pages.dev/en-us/categories/luna/"
                 />
   </url><url>
-    <loc>https://blog-1ab.pages.dev/en-us/posts/</loc>
-    <lastmod>2023-02-24T10:36:49+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://blog-1ab.pages.dev/ja/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://blog-1ab.pages.dev/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://blog-1ab.pages.dev/en-us/posts/"
-                />
-  </url><url>
     <loc>https://blog-1ab.pages.dev/en-us/tags/shortcodes/</loc>
     <lastmod>2023-02-24T10:36:49+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -120,26 +160,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://blog-1ab.pages.dev/en-us/tags/"
-                />
-  </url><url>
-    <loc>https://blog-1ab.pages.dev/en-us/</loc>
-    <lastmod>2023-02-24T10:36:49+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://blog-1ab.pages.dev/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://blog-1ab.pages.dev/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://blog-1ab.pages.dev/en-us/"
                 />
   </url><url>
     <loc>https://blog-1ab.pages.dev/en-us/tags/english/</loc>
