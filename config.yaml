@@ -385,10 +385,13 @@ params:
 
   author: Ice-Hazymoon
   keywords:
-    - Hugo
-    - Hugo Theme
-    - Luna
-  description: "A simple, performance-first, SEO-friendly Hugo theme"
+    - Android
+    - Linux
+    - code
+    - java
+    - c
+    - c++
+  description: "A coder`s blog!"
 
 build:
   noJSConfigInAssets: true
