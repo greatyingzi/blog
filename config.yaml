@@ -1,7 +1,7 @@
 baseURL: https://blog-1ab.pages.dev/
-languageCode: en-us
-defaultContentLanguage: en-us
-title: "Hugo Theme Luna"
+languageCode: zh-cn
+defaultContentLanguage: zh-cn
+title: "影子的博客"
 enableRobotsTXT: true
 enableEmoji: true
 theme: hugo-theme-luna
