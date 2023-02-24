@@ -183,14 +183,14 @@ params:
     provider: "giscus" # custom | giscus
     giscus: &giscus
       repo: "greatyingzi/blog"
-      repoID: "R_kgDOHQOwYw"
+      repoID: "R_kgDOJBXSjw"
       category: "Comments"
-      categoryID: "DIC_kwDOHQOwY84CP0Sy"
+      categoryID: "DIC_kwDOJBXSj84CUbfF"
       mapping: "title"
       reactionsEnabled: 1
       emitMetadata: 0
       lazy: false
-      lang: "en"
+      lang: "zh-CN"
 
   # Rss 配置
   # RSS configuration
